@@ -1,9 +1,9 @@
-# FreeCodeCamp React Project 3: Build a Recipe Box
+# FreeCodeCamp React Project 1: Build a Javascript Calculator
 
-A website coded in React which allows users to create recipes that have names and ingredients
+A scientific calculator coded in Javascript
 
-## [Instructions on FreeCodeCamp](https://www.freecodecamp.org/challenges/build-a-recipe-box)
+## [Instructions on FreeCodeCamp](https://www.freecodecamp.org/challenges/build-a-javascript-calculator)
 
-## [FreeCodeCamp's version](https://codepen.io/freeCodeCamp/full/xVXWag)
+## [FreeCodeCamp's version](https://codepen.io/freeCodeCamp/full/rLJZrA)
 
-## [My Version hosted on CodePen](https://codepen.io/leonard92/pen/LQgoXO)
+## [My Version hosted on CodePen](https://codepen.io/leonard92/full/JRdpyg/)
