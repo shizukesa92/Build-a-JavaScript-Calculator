@@ -1,4 +1,4 @@
-# FreeCodeCamp React Project 1: Build a Javascript Calculator
+# FreeCodeCamp Advanced Front End Development Project 1: Build a Javascript Calculator
 
 A scientific calculator coded in Javascript
 
